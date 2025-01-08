@@ -1,0 +1,9 @@
+tensorflow
+tensorflow-hub
+tensorflow-text
+streamlit
+diffusers
+transformers
+torch
+Pillow
+scipy
